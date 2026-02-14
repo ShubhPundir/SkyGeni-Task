@@ -182,13 +182,10 @@ This is an analytical project. If you'd like to extend the analysis:
 3. Add your analysis/improvements
 4. Submit a pull request with clear documentation
 
-## License
-
-[Specify your license here]
 
 ## Contact
 
-For questions or collaboration opportunities, please reach out via [your contact method].
+For questions or collaboration opportunities, please reach out via shb.pndr@gmail.com
 
 ---
 
